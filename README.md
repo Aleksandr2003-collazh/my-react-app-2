@@ -1,1 +1,1 @@
-# my-react-app-2
+# my-react-app
